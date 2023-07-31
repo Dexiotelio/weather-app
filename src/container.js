@@ -34,7 +34,7 @@ export default function ContainerFunction({ data, list, state, error }) {
     return (
       <Container className="alert alert-primary bg-secondary shadow-lg rounded-3 border border-success-subtle myContainer">
         <p className="text-white m-5 p-5 d-flex justify-content-center h5">
-          No hay resultados. Intentelo de nuevo
+          No results. Try again
         </p>
       </Container>
     );
